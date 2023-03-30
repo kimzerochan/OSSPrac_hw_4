@@ -6,4 +6,3 @@ print('<출력>')
 print('이름 : ',name)
 print('학번 : ',std_id)
 print('학과 : ',std_st)
-
